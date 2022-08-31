@@ -1,0 +1,2 @@
+*{box-sizing:border-box}html{font-family:Arial,Helvetica,sans-serif}body{margin:0}.boxes{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr))}@media (min-width:1200px){.boxes{grid-template-columns:repeat(3,1fr)}}.boxes__1{background-color:red}.boxes__2{background-color:#c00}.boxes__3{background-color:#900}.boxes__4{background-color:#600}.boxes__5{background-color:#300}.boxes__6{background-color:#000}.box{height:300px;font-size:100px;color:#fff;display:flex;justify-content:center;align-items:center}
+/*# sourceMappingURL=main.4c96ff52.css.map */
